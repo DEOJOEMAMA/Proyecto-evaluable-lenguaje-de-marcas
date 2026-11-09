@@ -1,2 +1,1 @@
-# Proyecto-evaluable-lenguaje-de-marcas
-Proyecto pagina manual
+# Página Manual de Videojuego 
