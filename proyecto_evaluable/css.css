@@ -1,0 +1,48 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  position: sticky;
+  top: 0;
+}
+ul li {
+  float: left;
+}
+ul li :hover{
+  color: #bbffbf;
+}
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#div1{
+    background-color: rgb(229, 231, 231);
+    border-radius: 0px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 30px;
+}   
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.div{
+
+    background-color: #bbffbf;
+    border-radius: 0px;
+    margin: 0px;
+    padding: 10px;
+    overflow: auto;
+    font-size: 40px;
+
+}
