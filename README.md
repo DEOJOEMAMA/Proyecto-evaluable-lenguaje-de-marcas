@@ -8,4 +8,4 @@
 * Sebastian
 
 ## Enlace repositorio
-GitHub = "https://github.com/Proyecto-evaluable-lenguaje-de-marcas"
+GitHub = "https://github.com/DEOJOEMAMA/Proyecto-evaluable-lenguaje-de-marcas"
